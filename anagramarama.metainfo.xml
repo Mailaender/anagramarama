@@ -33,6 +33,7 @@
   </screenshots>
 
   <url type="homepage">http://identicalsoftware.com/anagramarama/</url>
+  <url type="vcs-browser">https://github.com/dulsi/anagramarama</url>
 
   <provides>
     <binary>anagramarama</binary>
